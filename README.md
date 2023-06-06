@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Andres Paredes Horna</h1>
-<h3 align="center">I am a software developer</h3>
+<h3 align="center">I am a Electronic Engineer and Embedded Software Developer</h3>
 
 - 🌱 I’m currently learning **Java, HTML, CSS3, Javascript, freeRTOS**
 
-- 💬 Ask me about **C, C++, Assembly 8051,Visual Basic**
+- 💬 Ask me about **C, C++, Assembly 8051, Visual Basic, Microcontrollers**
 
 - 📫 How to reach me **andresph@outlook.com**
 
